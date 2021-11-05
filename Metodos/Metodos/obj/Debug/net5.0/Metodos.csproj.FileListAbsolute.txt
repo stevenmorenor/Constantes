@@ -1,0 +1,16 @@
+C:\Src\Metodos\Metodos\bin\Debug\net5.0\Metodos.exe
+C:\Src\Metodos\Metodos\bin\Debug\net5.0\Metodos.deps.json
+C:\Src\Metodos\Metodos\bin\Debug\net5.0\Metodos.runtimeconfig.json
+C:\Src\Metodos\Metodos\bin\Debug\net5.0\Metodos.runtimeconfig.dev.json
+C:\Src\Metodos\Metodos\bin\Debug\net5.0\Metodos.dll
+C:\Src\Metodos\Metodos\bin\Debug\net5.0\ref\Metodos.dll
+C:\Src\Metodos\Metodos\bin\Debug\net5.0\Metodos.pdb
+C:\Src\Metodos\Metodos\obj\Debug\net5.0\Metodos.csproj.AssemblyReference.cache
+C:\Src\Metodos\Metodos\obj\Debug\net5.0\Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Src\Metodos\Metodos\obj\Debug\net5.0\Metodos.AssemblyInfoInputs.cache
+C:\Src\Metodos\Metodos\obj\Debug\net5.0\Metodos.AssemblyInfo.cs
+C:\Src\Metodos\Metodos\obj\Debug\net5.0\Metodos.csproj.CoreCompileInputs.cache
+C:\Src\Metodos\Metodos\obj\Debug\net5.0\Metodos.dll
+C:\Src\Metodos\Metodos\obj\Debug\net5.0\ref\Metodos.dll
+C:\Src\Metodos\Metodos\obj\Debug\net5.0\Metodos.pdb
+C:\Src\Metodos\Metodos\obj\Debug\net5.0\Metodos.genruntimeconfig.cache
