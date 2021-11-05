@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "59cc99ae-e9e1-422c-bc0f-776d01ebfcab": {
+      "ProjectGuid": "59cc99ae-e9e1-422c-bc0f-776d01ebfcab",
+      "DisplayName": "Exampol",
+      "ColorIndex": 0
+    },
+    "0f302200-72f8-4754-9f03-7ccc74975680": {
+      "ProjectGuid": "0f302200-72f8-4754-9f03-7ccc74975680",
+      "DisplayName": "Constantes",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
