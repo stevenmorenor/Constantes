@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3813d7d7-0eb2-4558-a92f-a98c3bd74acd": {
+      "ProjectGuid": "3813d7d7-0eb2-4558-a92f-a98c3bd74acd",
+      "DisplayName": "Metodos",
+      "ColorIndex": 0
+    },
+    "55e65e31-2b35-428d-a855-d763264e1f2b": {
+      "ProjectGuid": "55e65e31-2b35-428d-a855-d763264e1f2b",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
