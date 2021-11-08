@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Src\\Exampol\\Constantes\\Constantes.csproj",
+      "projectUniqueName": "C:\\Src\\Constantes\\Constantes\\Constantes.csproj",
       "projectName": "Constantes",
-      "projectPath": "C:\\Src\\Exampol\\Constantes\\Constantes.csproj",
+      "projectPath": "C:\\Src\\Constantes\\Constantes\\Constantes.csproj",
       "packagesPath": "C:\\Users\\steven1\\.nuget\\packages\\",
-      "outputPath": "C:\\Src\\Exampol\\Constantes\\obj\\",
+      "outputPath": "C:\\Src\\Constantes\\Constantes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\steven1\\AppData\\Roaming\\NuGet\\NuGet.Config",

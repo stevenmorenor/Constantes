@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Src\\Exampol\\Exampol\\Exampol.csproj",
+      "projectUniqueName": "C:\\Src\\Constantes\\Exampol\\Exampol.csproj",
       "projectName": "Exampol",
-      "projectPath": "C:\\Src\\Exampol\\Exampol\\Exampol.csproj",
+      "projectPath": "C:\\Src\\Constantes\\Exampol\\Exampol.csproj",
       "packagesPath": "C:\\Users\\steven1\\.nuget\\packages\\",
-      "outputPath": "C:\\Src\\Exampol\\Exampol\\obj\\",
+      "outputPath": "C:\\Src\\Constantes\\Exampol\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\steven1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Src\\Exampol\\Constantes\\Constantes.csproj": {
-              "projectPath": "C:\\Src\\Exampol\\Constantes\\Constantes.csproj"
+            "C:\\Src\\Constantes\\Constantes\\Constantes.csproj": {
+              "projectPath": "C:\\Src\\Constantes\\Constantes\\Constantes.csproj"
             }
           }
         }

@@ -10,3 +10,15 @@ C:\Src\Exampol\Constantes\obj\Debug\net5.0\Constantes.csproj.CoreCompileInputs.c
 C:\Src\Exampol\Constantes\obj\Debug\net5.0\Constantes.dll
 C:\Src\Exampol\Constantes\obj\Debug\net5.0\ref\Constantes.dll
 C:\Src\Exampol\Constantes\obj\Debug\net5.0\Constantes.pdb
+C:\Src\Constantes\Constantes\bin\Debug\net5.0\Constantes.deps.json
+C:\Src\Constantes\Constantes\bin\Debug\net5.0\Constantes.dll
+C:\Src\Constantes\Constantes\bin\Debug\net5.0\ref\Constantes.dll
+C:\Src\Constantes\Constantes\bin\Debug\net5.0\Constantes.pdb
+C:\Src\Constantes\Constantes\obj\Debug\net5.0\Constantes.csproj.AssemblyReference.cache
+C:\Src\Constantes\Constantes\obj\Debug\net5.0\Constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Src\Constantes\Constantes\obj\Debug\net5.0\Constantes.AssemblyInfoInputs.cache
+C:\Src\Constantes\Constantes\obj\Debug\net5.0\Constantes.AssemblyInfo.cs
+C:\Src\Constantes\Constantes\obj\Debug\net5.0\Constantes.csproj.CoreCompileInputs.cache
+C:\Src\Constantes\Constantes\obj\Debug\net5.0\Constantes.dll
+C:\Src\Constantes\Constantes\obj\Debug\net5.0\ref\Constantes.dll
+C:\Src\Constantes\Constantes\obj\Debug\net5.0\Constantes.pdb

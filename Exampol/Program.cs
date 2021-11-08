@@ -9,9 +9,9 @@ namespace Exampol
         {
             Console.WriteLine(Constantes.Demo.Text);
             decimal G = Constantes.Demo.Gravity;
-            Console.WriteLine("The gravity is {0}", G);
+            Console.WriteLine($"The gravity is {G}");
             int Week = Constantes.Demo.Days;
-            Console.WriteLine("The days of week are: {0}", Week);
+            Console.WriteLine($"The days of week are: {Week}");
 
             foreach (var day in System.Enum.GetValues(typeof(Constantes.Days)))
             {
